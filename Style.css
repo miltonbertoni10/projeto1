@@ -1,0 +1,11 @@
+.container{
+	width: 980px;
+	margin: 0 auto;
+	background: #c0c0c0;
+	text-align: center;
+}
+.resultado{
+	width: 900px;
+	font-size: 50px;
+	margin-top: 200px;
+}
